@@ -5,5 +5,8 @@ Computer Engineering student, mainly focused on dev-ops and infra maintenance. L
 <br/>
 Some of my projects:<br/>
 
-**StreamFlow:**<br/> ![Docker Pulls](https://ghcr-badge.elias.eu.org/shield/krinkuto11/streamflow/streamflow) <br/>
-**AceStream Orchestrator:** <br/> ![Docker Pulls](https://ghcr-badge.elias.eu.org/shield/krinkuto11/acestream-orchestrator/acestream-orchestrator)
+| **Project**                     | **Description**                         | **Docker Stats**                                                                                             |
+|---------------------------------|-----------------------------------------|--------------------------------------------------------------------------------------------------------------|
+| **StreamFlow**                  | Housekeeping tool for Dispatcharr       | ![Docker Pulls](https://ghcr-badge.elias.eu.org/shield/krinkuto11/streamflow/streamflow)                     |
+| **AceStream Orchestrator**      | High-Availability backend for AceStream | ![Docker Pulls](https://ghcr-badge.elias.eu.org/shield/krinkuto11/acestream-orchestrator/acestream-orchestrator)                     |
+| **AceStream-HTTP-Proxy (fork)** | Docker image for the AceStream Engine   | ![Docker Pulls](https://ghcr-badge.elias.eu.org/shield/krinkuto11/acestream-http-proxy/acestream-http-proxy) |
