@@ -9,4 +9,3 @@ Some of my projects:<br/>
 |---------------------------------|-----------------------------------------|--------------------------------------------------------------------------------------------------------------|
 | **[StreamFlow](https://github.com/krinkuto11/streamflow)**                  | Housekeeping tool for Dispatcharr       | ![Docker Pulls](https://ghcr-badge.elias.eu.org/shield/krinkuto11/streamflow/streamflow)                     |
 | **[AceStream Orchestrator](https://github.com/krinkuto11/acestream-orchestrator)**      | High-Availability backend for AceStream | ![Docker Pulls](https://ghcr-badge.elias.eu.org/shield/krinkuto11/acestream-orchestrator/acestream-orchestrator)                     |
-| **[AceStream-HTTP-Proxy (fork)](https://github.com/krinkuto11/acestream-http-proxy)** | Docker image for the AceStream Engine   | ![Docker Pulls](https://ghcr-badge.elias.eu.org/shield/krinkuto11/acestream-http-proxy/acestream-http-proxy) |
